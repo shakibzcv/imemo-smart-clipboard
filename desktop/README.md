@@ -115,8 +115,8 @@ The renderer process interacts with the main process via context-isolated IPC ch
 
 ## 📦 Building Native Installers
 
-Run `pnpm build` to compile production binaries for your current platform in `desktop/release/0.1.0/`:
+Run `pnpm build` to compile production binaries for your current platform in `desktop/release/1.0.0/`:
 
-- **Windows**: `iMemo-Smart-Clipboard-Windows-0.1.0-Setup.exe` (NSIS installer)
-- **macOS**: `iMemo-Smart-Clipboard-Mac-0.1.0.dmg` (Universal binary)
-- **Linux**: `iMemo-Smart-Clipboard-Linux-0.1.0.AppImage`, `.deb`, `.rpm`
+- **Windows**: `iMemo-Smart-Clipboard-Windows-1.0.0-Setup.exe` (NSIS installer)
+- **macOS**: `iMemo-Smart-Clipboard-Mac-1.0.0.dmg` (Universal binary)
+- **Linux**: `iMemo-Smart-Clipboard-Linux-1.0.0.AppImage`, `.deb`, `.rpm`

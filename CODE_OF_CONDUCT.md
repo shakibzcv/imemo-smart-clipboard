@@ -34,7 +34,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement & Reporting
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer directly at **[ichshakib@gmail.com](mailto:ichshakib@gmail.com)**. All complaints will be reviewed and investigated promptly and will result in a response that is deemed necessary and appropriate to the circumstances. The project maintainer is obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer directly at **[shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)**. All complaints will be reviewed and investigated promptly and will result in a response that is deemed necessary and appropriate to the circumstances. The project maintainer is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
@@ -44,9 +44,9 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 For any inquiries or private reporting regarding this Code of Conduct:
 
-- **Maintainer**: Shakib Khan ([@ichshakib](https://github.com/ichshakib))
-- **Email**: [ichshakib@gmail.com](mailto:ichshakib@gmail.com)
-- **Repository**: [https://github.com/ichshakib/imemo-smart-clipboard](https://github.com/ichshakib/imemo-smart-clipboard)
+- **Maintainer**: Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email**: [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **Repository**: [https://github.com/shakibzcv/imemo-smart-clipboard](https://github.com/shakibzcv/imemo-smart-clipboard)
 
 ---
 

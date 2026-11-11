@@ -58,7 +58,7 @@
   },
   "publish": {
     "provider": "github",
-    "owner": "ichshakib",
+    "owner": "shakibzcv",
     "repo": "imemo-smart-clipboard",
     "releaseType": "release"
   }

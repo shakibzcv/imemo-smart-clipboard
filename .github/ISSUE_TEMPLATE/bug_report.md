@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop Environment:**
  - OS: [e.g. Windows 11, macOS Sonoma, Ubuntu 24.04]
- - App Version: [e.g. v0.1.0]
+ - App Version: [e.g. v1.0.0]
  - Installation Method: [e.g. .exe setup, .dmg, .AppImage, development build]
 
 **Additional context**

@@ -13,10 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ichshakib/imemo-smart-clipboard/releases"><img src="https://img.shields.io/badge/version-v0.1.0-blue.svg?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/shakibzcv/imemo-smart-clipboard/releases"><img src="https://img.shields.io/badge/version-v1.0.0-blue.svg?style=flat-square" alt="Version"></a>
+  <a href="https://shakibzcv.github.io/imemo-smart-clipboard/"><img src="https://img.shields.io/badge/website-live-emerald.svg?style=flat-square" alt="Website"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=flat-square" alt="Platform">
-  <a href="https://github.com/ichshakib/imemo-smart-clipboard/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/shakibzcv/imemo-smart-clipboard/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
+<p align="center">
+  <a href="https://shakibzcv.github.io/imemo-smart-clipboard/"><strong>🌐 Live Website & Web Portal</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/shakibzcv/imemo-smart-clipboard/releases/tag/v1.0.0"><strong>📦 Download v1.0.0 Release</strong></a>
 </p>
 
 ---
@@ -121,6 +127,22 @@ flowchart TD
 
 ---
 
+## 📥 Download & Live Website
+
+You can download pre-built installers directly from the [GitHub Releases](https://github.com/shakibzcv/imemo-smart-clipboard/releases/tag/v1.0.0) page or test the app landing page via the [Live Website](https://shakibzcv.github.io/imemo-smart-clipboard/):
+
+| Platform | Package | Download Link |
+| :--- | :--- | :--- |
+| **Windows** | Setup Installer (`.exe`, x64) | [iMemo-Smart-Clipboard-Windows-1.0.0-Setup.exe](https://github.com/shakibzcv/imemo-smart-clipboard/releases/download/v1.0.0/iMemo-Smart-Clipboard-Windows-1.0.0-Setup.exe) |
+| **macOS** | Universal Disk Image (`.dmg`) | [iMemo-Smart-Clipboard-Mac-1.0.0.dmg](https://github.com/shakibzcv/imemo-smart-clipboard/releases/download/v1.0.0/iMemo-Smart-Clipboard-Mac-1.0.0.dmg) |
+| **Linux** | Universal AppImage | [iMemo-Smart-Clipboard-Linux-1.0.0.AppImage](https://github.com/shakibzcv/imemo-smart-clipboard/releases/download/v1.0.0/iMemo-Smart-Clipboard-Linux-1.0.0.AppImage) |
+| **Linux (Debian/Ubuntu)** | Debian Package (`.deb`) | [iMemo-Smart-Clipboard-Linux-1.0.0.deb](https://github.com/shakibzcv/imemo-smart-clipboard/releases/download/v1.0.0/iMemo-Smart-Clipboard-Linux-1.0.0.deb) |
+| **Linux (RedHat/Fedora)** | RPM Package (`.rpm`) | [iMemo-Smart-Clipboard-Linux-1.0.0.rpm](https://github.com/shakibzcv/imemo-smart-clipboard/releases/download/v1.0.0/iMemo-Smart-Clipboard-Linux-1.0.0.rpm) |
+
+> 🌐 **Official Web Portal & Interactive Preview**: [https://shakibzcv.github.io/imemo-smart-clipboard/](https://shakibzcv.github.io/imemo-smart-clipboard/)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -132,7 +154,7 @@ flowchart TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ichshakib/imemo-smart-clipboard.git
+   git clone https://github.com/shakibzcv/imemo-smart-clipboard.git
    cd imemo-smart-clipboard
    ```
 
@@ -160,7 +182,7 @@ cd desktop
 pnpm build
 ```
 
-This generates production-ready installers in `desktop/release/0.1.0/`:
+This generates production-ready installers in `desktop/release/1.0.0/`:
 - **Windows**: `.exe` (NSIS setup x64)
 - **macOS**: `.dmg` (Universal Apple Silicon & Intel)
 - **Linux**: `.AppImage`, `.deb`, `.rpm`
@@ -203,10 +225,10 @@ Contributions are welcome! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) f
 
 If you have questions, feedback, or need assistance, feel free to reach out:
 
-- **Maintainer**: Shakib Khan ([@ichshakib](https://github.com/ichshakib))
-- **Email**: [ichshakib@gmail.com](mailto:ichshakib@gmail.com)
-- **GitHub Issues**: [https://github.com/ichshakib/imemo-smart-clipboard/issues](https://github.com/ichshakib/imemo-smart-clipboard/issues)
-- **Repository**: [https://github.com/ichshakib/imemo-smart-clipboard](https://github.com/ichshakib/imemo-smart-clipboard)
+- **Maintainer**: Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email**: [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **GitHub Issues**: [https://github.com/shakibzcv/imemo-smart-clipboard/issues](https://github.com/shakibzcv/imemo-smart-clipboard/issues)
+- **Repository**: [https://github.com/shakibzcv/imemo-smart-clipboard](https://github.com/shakibzcv/imemo-smart-clipboard)
 
 ---
 

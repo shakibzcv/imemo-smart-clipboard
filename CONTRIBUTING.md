@@ -7,7 +7,7 @@ First off, thank you for considering contributing to **iMemo Smart Clipboard**! 
 ## 🛠️ How to Contribute
 
 ### 1. Fork the Repository
-Click the **Fork** button at the top right of the [repository page](https://github.com/ichshakib/imemo-smart-clipboard) to create your own copy on GitHub.
+Click the **Fork** button at the top right of the [repository page](https://github.com/shakibzcv/imemo-smart-clipboard) to create your own copy on GitHub.
 
 ### 2. Clone Your Fork
 Clone your fork locally:
@@ -21,7 +21,7 @@ cd imemo-smart-clipboard
 Add the original repository as an upstream remote to stay synced with the latest changes:
 
 ```bash
-git remote add upstream https://github.com/ichshakib/imemo-smart-clipboard.git
+git remote add upstream https://github.com/shakibzcv/imemo-smart-clipboard.git
 ```
 
 ### 4. Install Dependencies
@@ -86,7 +86,7 @@ Push your branch to your fork:
 git push origin feature/your-feature-name
 ```
 
-Navigate to [https://github.com/ichshakib/imemo-smart-clipboard/pulls](https://github.com/ichshakib/imemo-smart-clipboard/pulls) and open a new Pull Request. Fill out the pull request template with context, screenshots (if applicable), and testing details.
+Navigate to [https://github.com/shakibzcv/imemo-smart-clipboard/pulls](https://github.com/shakibzcv/imemo-smart-clipboard/pulls) and open a new Pull Request. Fill out the pull request template with context, screenshots (if applicable), and testing details.
 
 ---
 
@@ -101,7 +101,7 @@ Navigate to [https://github.com/ichshakib/imemo-smart-clipboard/pulls](https://g
 
 ### Reporting Issues
 If you encounter a bug or have a feature suggestion, please check existing issues first or open a new one:
-- [Open an Issue](https://github.com/ichshakib/imemo-smart-clipboard/issues)
+- [Open an Issue](https://github.com/shakibzcv/imemo-smart-clipboard/issues)
 - Provide system specifications (OS version, app version, reproduction steps).
 
 ---
@@ -110,9 +110,9 @@ If you encounter a bug or have a feature suggestion, please check existing issue
 
 If you need guidance or have any questions regarding contributions, reach out to the project maintainer:
 
-- **Maintainer**: Shakib Khan ([@ichshakib](https://github.com/ichshakib))
-- **Email**: [ichshakib@gmail.com](mailto:ichshakib@gmail.com)
-- **GitHub Discussions / Issues**: [https://github.com/ichshakib/imemo-smart-clipboard/issues](https://github.com/ichshakib/imemo-smart-clipboard/issues)
+- **Maintainer**: Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email**: [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **GitHub Discussions / Issues**: [https://github.com/shakibzcv/imemo-smart-clipboard/issues](https://github.com/shakibzcv/imemo-smart-clipboard/issues)
 
 ---
 
